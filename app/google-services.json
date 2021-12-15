@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "172542992091",
+    "project_id": "grocery-online-shop",
+    "storage_bucket": "grocery-online-shop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172542992091:android:3c71e514958d94174a76fe",
+        "android_client_info": {
+          "package_name": "com.mizan.shopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172542992091-cc339qrjbrc410v5mk382cpof0c1i9vn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYZREytTvT4AMDzPBEJX_OLdefJkbq0Wk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172542992091-cc339qrjbrc410v5mk382cpof0c1i9vn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
